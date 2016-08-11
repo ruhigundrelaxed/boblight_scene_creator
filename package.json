@@ -14,7 +14,8 @@
       "fs": "",
       "single-line-log":"",
       "jsonfile":"",
-      "cluster":""
+      "cluster":"",
+      "get-pixels":""
   },
   "devDependencies": {
     "grunt": "~0.4.4",
