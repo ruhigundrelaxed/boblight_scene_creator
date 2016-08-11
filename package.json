@@ -1,5 +1,5 @@
 {
-  "name": "iobroker.boblight scene creator",
+  "name": "boblight_scene_creator",
   "version": "0.0.1",
   "description": "Creates scenes used by iobroker.boblight.",
   "author": "ruhigundrelaxed<martin@qvadrat.de>",
